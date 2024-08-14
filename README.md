@@ -1,1 +1,1 @@
-# Next24_tech_DataScience_Intern_Jagadeesh
+# Next24tech-Technology-Internship-Tasks
